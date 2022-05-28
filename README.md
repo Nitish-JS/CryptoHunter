@@ -1,4 +1,4 @@
 
 View the deployed site on the following link
 
-https://nitishjs.live/
+https://cryptohunter-nitish.netlify.app/
